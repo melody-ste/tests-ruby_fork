@@ -1,8 +1,11 @@
 Exercices tests ruby
 ==========
 
-This folder cointain two other foders, one ./lib with seven ruby programs and in the other ./spec it's the test files corresponding to each programs.
-There are 7 test files, each of these files are about a ruby file. The first one exists (`lib/00_hello.rb`), the other do not exist yet (`01_temperature.rb`, etc). You will have to create them. But first let's work with the first program.
+This repository contain two  folders
+ ./lib with seven ruby programs. 
+ ./spec contains the corresponding RSpec test files for each program.
+
+ To run the tests make sure you have Ruby and RSpec installed.
 
 ### Credit
 
